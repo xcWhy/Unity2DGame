@@ -5,3 +5,4 @@ To run the game, users will need to get from unity marketplace the models for th
 
 And for the background - ["Pixel Adventure 1"](https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360)
 
+You can also watch the **_Playthrough_**, where I show the game functions B)
