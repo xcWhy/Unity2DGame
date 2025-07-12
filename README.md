@@ -5,4 +5,3 @@ To run the game, users will need to get from unity marketplace the models for th
 
 And for the background - ["Pixel Adventure 1"](https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360)
 
-You will need to put together the terraing manually T-T
